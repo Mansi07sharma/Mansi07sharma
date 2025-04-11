@@ -9,11 +9,12 @@
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 ✨ I'm a 3rd-year B.Tech Computer Science student<br>
 ✨ Passionate about Software Engineering <br>
-✨ Skilled in C, Java, Python, HTML, CSS, JavaScript, and SQL | DSA enthusiast | Machine Learning practitioner  <br>
+✨ Skilled in C, Java, Python, JavaScript, SQL & the MERN Stack (MongoDB, Express.js, React.js, Node.js)  <br>
+✨ DSA enthusiast | Machine Learning practitioner <br>
 ✨ Developer with experience in building predictive models and cloud-based solutions during my internship at Edunet Foundation<br>
-✨ Worked on exciting projects like a Spotify clone and a Travel Chatbot using IBM Cloud and Watson <br>
+✨ Built exciting projects like a Chess Game with Chatbot (JavaScript) | Travel Chatbot (IBM Cloud & Watson) | URL Shortener (MERN) <br>
 ✨ Contributor in Girls Script Summer of Code  <br>
-✨ Looking forward to applying my skills as a Software Engineer Intern <br> 
+✨ Looking forward to applying my skills as a Software Engineer <br> 
 
 <!--- Adding Tech Stack open Section -->
 
