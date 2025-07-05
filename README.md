@@ -11,7 +11,8 @@
 ✨ Proficient in C, Java, Python, JavaScript, SQL, and the MERN Stack (MongoDB, Express.js, React.js, Node.js).<br>
 ✨ Enthusiast in Data Structures & Algorithms, actively solving problems and exploring optimization techniques.<br>
 ✨ Experience in Machine Learning | Cloud-based application development through my internship at Edunet Foundation | IBM Watson Studio & Watson ML.<br>
-<ul>✨ Project Highlights:
+✨ Project Highlights:
+<ul>
 <li>🧠FlowMind: AI-powered DSA mentor for personalized learning and problem analysis.</li>
 <li>💖LivWell: A full-stack smart housing and property management.</li>
 <li>♟️Chess Game with AI Chatbot: Interactive game with side-based play and chatbot (JavaScript).</li>
