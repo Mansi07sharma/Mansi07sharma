@@ -11,14 +11,13 @@
 ✨ Proficient in C, Java, Python, JavaScript, SQL, and the MERN Stack (MongoDB, Express.js, React.js, Node.js).<br>
 ✨ Enthusiast in Data Structures & Algorithms, actively solving problems and exploring optimization techniques.<br>
 ✨ Experience in Machine Learning | Cloud-based application development through my internship at Edunet Foundation | IBM Watson Studio & Watson ML.<br>
-✨ Project Highlights:
-<ul>
+✨ Project Highlights:<ul>
 <li>🧠FlowMind: AI-powered DSA mentor for personalized learning and problem analysis.</li>
 <li>💖LivWell: A full-stack smart housing and property management.</li>
 <li>♟️Chess Game with AI Chatbot: Interactive game with side-based play and chatbot (JavaScript).</li>
 <li>✈️Travel Chatbot: Built with IBM Cloud & Watson Assistant.</li>
 <li>📊ML-based models for House Price Prediction, Salary Estimation, and Admission Prediction.</li>
-</ul><br>
+</ul>
 ✨ Open-source contributor at GirlScript Summer of Code (GSSoC) with 20+ meaningful pull requests.<br>
 ✨ Contributor in Girls Script Summer of Code  <br>
 ✨ Passionate about problem-solving, full-stack development, and leveraging AI to create user-centric solutions. Actively seeking opportunities to contribute as a Software Engineer.<br> 
