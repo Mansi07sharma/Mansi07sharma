@@ -67,22 +67,22 @@ Currently interested in:
 
 <table>
 <tr>
-<td>🧩 <b>DSA & Problem Solving</b><br>
+<td> • <b>DSA & Problem Solving</b><br>
 Solved 740+ coding problems across LeetCode & GeeksforGeeks with focus on algorithms and optimization.</td>
 </tr>
 
 <tr>
-<td>🏆 <b>Level 3 Conqueror</b><br>
+<td> • <b>Level 3 Conqueror</b><br>
 Completed Coding Ninjas' 21-Day Coding Challenge demonstrating coding consistency and advanced problem-solving skills.</td>
 </tr>
 
 <tr>
-<td>🌍 <b>Open Source</b><br>
+<td> • <b>Open Source</b><br>
 Contributed to multiple projects during GirlScript Summer of Code (GSSoC) with accepted pull requests and collaborative development experience.</td>
 </tr>
 
 <tr>
-<td>🤖 <b>AI & Cloud Certifications</b><br>
+<td> • <b>AI & Cloud Certifications</b><br>
 Certified in Generative AI and cloud technologies with hands-on experience in AI-powered applications.</td>
 </tr>
 </table>
@@ -105,7 +105,7 @@ Certified in Generative AI and cloud technologies with hands-on experience in AI
 </div>
 </details> 
 
-## GSSOC(24) Badges 🎉
+## GSSOC(24) Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://api.badgr.io/public/assertions/Uprfs2wfT76NFwJ3SEjtUw?identity__email=yogesh11222211%40gmail.com">
   <img src="https://media.badgr.com/uploads/badges/assertion-Uprfs2wfT76NFwJ3SEjtUw.png?versionId=lDP_URrxmDeVp7sklw4LVuqg9g0kT6hG" width="100px" height="100px" /> 
