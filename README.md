@@ -29,9 +29,9 @@ Currently interested in:
 | Frontend | React.js, Next.js, Tailwind CSS |
 | Backend | Node.js, Express.js, REST APIs, JWT Authentication |
 | Databases | MongoDB, MySQL |
-| AI / ML | Scikit-learn, Pandas, NumPy, SHAP, IBM AutoAI |
-| Tools & Platforms | Git, GitHub, Postman, IBM Cloud, Vercel |
-
+| AI / ML | Scikit-learn, Pandas, NumPy, SHAP, IBM AutoAI, LangChain, LangGraph, AI Agents, OCR |
+| Automation & Workflow | n8n |
+| Tools & Platforms | Git, GitHub, Postman, IBM Cloud, Vercel, Linux |
 ## Experience
 
 ### 🏢 SourceSoft Solutions Pvt. Ltd. — Software Developer Intern  
